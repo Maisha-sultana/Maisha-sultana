@@ -1,4 +1,5 @@
-![Banner]([https://raw.githubusercontent.com/Maisha-sultana/Maisha-sultana/main/banner.png](https://stock.adobe.com/search?k=web+development+banner))
+![Banner](https://raw.githubusercontent.com/Maisha-sultana/Maisha-sultana/main/banner.jpg)
+
 
 
 # Hi 👋, I'm Maiasha Sultana  
