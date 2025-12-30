@@ -1,8 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Maisha-sultana/Maisha-sultana/main/banner.jpg)
 
-
-
-# Hi 👋, I'm Maiasha Sultana  
+# Hi , I'm Maiasha Sultana  
 ### Full-Stack Web Developer
 I’m a passionate Web Developer who loves building modern, user-friendly web applications.  
 I enjoy working with React, Tailwind CSS and JavaScript.  
